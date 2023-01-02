@@ -71,5 +71,6 @@ Jenkins is used by millions of users and thousands of companies.
 See [adopters](https://www.jenkins.io/project/adopters/) for the list of Jenkins adopters and their success stories.
 
 # License
-
 Jenkins is **licensed** under the **[MIT License](https://github.com/jenkinsci/jenkins/blob/master/LICENSE.txt)**.
+
+#thanks
